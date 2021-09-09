@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My California</string>
+    <string name="category_hotel" />
+    <string name="category_beach" />
+    <string name="category_city" />
+    <string name="category_mountains" />
+    <string name="hotel">Hotel</string>
+    <string name="beach">Beach</string>
+    <string name="city">City</string>
+    <string name="mountains">Mountains</string>
+</resources>
